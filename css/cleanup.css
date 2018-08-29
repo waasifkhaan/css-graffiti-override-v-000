@@ -48,10 +48,10 @@ body {
   display: none;
 }
 
-div#wall .parent #tag-5.slick {
+#wall .parent #tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
-  display: block;
+  display: none;
 }
 
 div#wall div.parent div:last-child div#tag-6 {
