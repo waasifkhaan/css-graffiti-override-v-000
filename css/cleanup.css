@@ -36,10 +36,10 @@ body {
   display: none;
 }
 
-div#wall div#tag-3.slick.wicked {
+#wall div#tag-3.slick.wicked {
   background: url(../images/tag-3.png) no-repeat;
   z-index: 5;
-  display: block;
+  display: none;
 }
 
 #wall #tag-4 {
